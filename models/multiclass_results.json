@@ -1,0 +1,32 @@
+{
+  "n_classes": 12,
+  "classes": [
+    "American Crow",
+    "American Robin",
+    "Bewick's Wren",
+    "Black-capped Chickadee",
+    "Dark-eyed Junco",
+    "House Finch",
+    "House Sparrow",
+    "Northern Flicker",
+    "Red-winged Blackbird",
+    "Song Sparrow",
+    "Spotted Towhee",
+    "White-crowned Sparrow"
+  ],
+  "test_accuracy": 0.5,
+  "test_top3_accuracy": 0.7281879194630873,
+  "macro_precision": 0.3111630536120043,
+  "macro_recall": 0.30331948753001386,
+  "macro_f1": 0.2994168977227309,
+  "weighted_f1": 0.46444654921260153,
+  "random_baseline": 0.08333333333333333,
+  "majority_baseline": 0.3187919463087248,
+  "training_time_seconds": 293.909775018692,
+  "n_train": 1385,
+  "n_val": 298,
+  "n_test": 298,
+  "parameters": 258316,
+  "best_val_accuracy": 0.47315436601638794,
+  "best_val_top3_acc": 0.7281879186630249
+}

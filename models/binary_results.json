@@ -1,0 +1,18 @@
+{
+  "pair": [
+    "House Sparrow",
+    "Spotted Towhee"
+  ],
+  "test_accuracy": 0.7844827586206896,
+  "test_auc": 0.6937343358395991,
+  "test_precision": 0.375,
+  "test_recall": 0.2857142857142857,
+  "test_f1": 0.32432432432432434,
+  "training_time_seconds": 17.325997591018677,
+  "n_train": 536,
+  "n_val": 115,
+  "n_test": 116,
+  "parameters": 25409,
+  "best_val_auc": 0.8257894515991211,
+  "best_val_accuracy": 0.8608695864677429
+}
