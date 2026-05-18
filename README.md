@@ -38,8 +38,8 @@ spectrograms across 12 Seattle bird species.
 ├── data/
 │   ├── bird_metadata.csv
 │   ├── train_extended.csv
-│   └── test_birds/                    # Three unlabeled test MP3 clips
-├── Sravya_PHW3_Report.pdf        # Written report
+│   └── test_birds/                  # Test MP3 clips
+├── Report_Sravyasri Murala.pdf        # Written report
 └── README.md
 ```
 
